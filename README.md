@@ -1,6 +1,12 @@
-# american fuzzy lop
+# AFL-DARWIN
 
 [![Build Status](https://travis-ci.org/google/AFL.svg?branch=master)](https://travis-ci.org/google/AFL)
+
+Code for the NDSS 2023 paper "DARWIN: Survival of the Fittest Fuzzing Mutators".
+
+Patrick Jauernig, Domagoj Jakobovic, Stjepan Picek, Emmanuel Stapf, and Ahmad-Reza Sadeghi.
+DARWIN: Survival of the Fittest Fuzzing Mutators. In 30th Annual Network and Distributed System
+Security Symposium, NDSS 2023, San Diego, California, USA, February 24-27, 2023, 2023.
 
 Originally developed by Michal Zalewski <lcamtuf@google.com>.
 
